@@ -2,8 +2,10 @@
   "name": "drinksmokegamble",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "dependencies": {},
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
